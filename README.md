@@ -1,5 +1,5 @@
 # Hunt the Wumpus
-![console output](https://github.com/cyberaktiv/colout/blob/master/test/output.png?raw=true)
+![console output](https://github.com/cyberaktiv/hunt_the_wumpus/blob/master/img/screen.png?raw=true)
 Оne of my completed exercises from the book "Programming - Principles and Practice Using C ++" by Bjarne Stroustrup. 
 This is project of Code::Blocks with FLTK Library (compiling options: **-std=c99**).
 
